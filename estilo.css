@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap');
+
+header.titulo{
+    background-color: lightblue;
+    color: red;
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: 'Zhi Mang Xing', cursive;
+}
+
+body{
+    background-color: lightcoral;
+}
+.colortabla{
+    background-color: lightblue;
+    border: lightcoral 1px solid;
+    word-spacing: 50px;
+}
+.decimal{
+    list-style-type: decimal;
+    text-align: left;
+}
