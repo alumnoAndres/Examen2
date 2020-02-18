@@ -20,3 +20,47 @@ body{
     list-style-type: decimal;
     text-align: left;
 }
+
+.color{
+    background-color: lightyellow;
+}
+
+.color2{
+    background-color: lightsteelblue;
+}
+
+.tabla{
+    background-color: chocolate;
+
+}
+
+td.margen{
+    margin-right: 15px;
+}
+
+hr {
+    height: 10px;
+    background-color: blue;
+    margin-left: 100px;
+    margin-right: 900px;
+  }
+
+  ul.ulcosa {
+    list-style-type: none;
+  }
+  
+  li.licosa {
+    background-color: #F6E3CA;
+    float: left;
+    text-align: center;
+    width: 5em;
+  }
+
+  p.puntos {
+        border-width: 10px 40px;
+        border-top: orange 10px dotted ;
+        border-bottom: yellow 10px dashed;
+        border-left: red 25px solid;
+        text-align: center;
+        color: yellow;
+  }
